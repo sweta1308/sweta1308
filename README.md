@@ -1,5 +1,7 @@
 # Hi there 👋 Myself Sweta Agarwalla. 
 
+- 🔭 I’m currently learning ReactJS. 
+
 <!--
 **sweta1308/sweta1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
