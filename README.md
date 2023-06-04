@@ -1,6 +1,6 @@
 # Hi there 👋 Myself Sweta Agarwalla. 
 
-## About Me
+## About Me ✨
 
 - 🌱 I’m currently learning ReactJS. 
 - 🔭 Check out my projects in my [Portfolio](https://swetaagarwalla.netlify.app/). 
