@@ -2,7 +2,7 @@
 
 ## About Me ✨
 
-- 🌱 I’m a web developer and I am good at ReactJS, Javscript, HTML, CSS. 
+- 🌱 I’m a web developer and I am good at ReactJS, JavaScript, HTML, CSS. 
 - 🔭 Check out my projects in my [Portfolio](https://swetaagarwalla.netlify.app/). 
 - 📫 You can reach out to me at agarwallasweta1@gmail.com.
 
