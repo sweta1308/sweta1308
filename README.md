@@ -1,8 +1,8 @@
 # Hi there 👋 Myself Sweta Agarwalla. 
 
-- 🔭 I’m currently learning ReactJS. 
-- Check out my projects in my [Portfolio](https://swetaagarwalla.netlify.app/). 
-- You can reach out to me at agarwallasweta1@gmail.com.
+- 🌱 I’m currently learning ReactJS. 
+- 🔭 Check out my projects in my [Portfolio](https://swetaagarwalla.netlify.app/). 
+- 📫 You can reach out to me at agarwallasweta1@gmail.com.
 
 <!--
 **sweta1308/sweta1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
