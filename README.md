@@ -1,4 +1,4 @@
-### Hi there 👋 Myself Sweta Agarwalla. 
+# Hi there 👋 Myself Sweta Agarwalla. 
 
 <!--
 **sweta1308/sweta1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
