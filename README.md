@@ -1,10 +1,13 @@
 # Hi there 👋 Myself Sweta Agarwalla. 
+## A passionate frontend developer.
 
 ## About Me ✨
 
-- 🌱 I’m a web developer and I am good at ReactJS, JavaScript, HTML, CSS. 
-- 🔭 Check out my projects in my [Portfolio](https://swetaagarwalla.netlify.app/). 
-- 📫 You can reach out to me at agarwallasweta1@gmail.com.
+- 🌱 I’m a web developer and my tech stack includes ReactJS, JavaScript, HTML, CSS. 
+- 👨‍💻 All of my projects are available at [Portfolio](https://swetaagarwalla.netlify.app/). 
+- 📫 How to reach me - [Mail ID](agarwallasweta1@gmail.com).
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1CVoNWexVm5lbO3Cc85Uq8gwv3yeFIx4m/view?usp=sharing).
+
 
 <!--
 **sweta1308/sweta1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
