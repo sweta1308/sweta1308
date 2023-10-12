@@ -6,7 +6,7 @@
 - 🌱 I’m a web developer and my tech stack includes ReactJS, JavaScript, HTML, CSS. 
 - 👨‍💻 All of my projects are available at [Portfolio](https://swetaagarwalla.netlify.app/). 
 - 📫 How to reach me - [Mail ID](agarwallasweta1@gmail.com).
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1Ce8xR_lM9-DQfMANosavrHDx1u1f2lvB/view).
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/14GipfhPT7R82E80vOFIO3wWpalJm58J1/view).
 
 
 <!--
