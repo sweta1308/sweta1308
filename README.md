@@ -1,5 +1,5 @@
 # Hi there 👋 Myself Sweta Agarwalla. 
-## A passionate frontend developer.
+## A passionate Frontend Developer.
 
 ## About Me ✨
 
