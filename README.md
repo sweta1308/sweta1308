@@ -3,7 +3,7 @@
 
 ## About Me ✨
 
-- 🌱 I’m a web developer and my tech stack includes ReactJS, JavaScript, HTML, CSS. 
+- 🌱 I’m a web developer and my tech stack includes ReactJS, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI, TypeScript, Redux and Redux Toolkit. 
 - 👨‍💻 All of my projects are available at [Portfolio](https://swetaagarwalla.netlify.app/). 
 - 📫 How to reach me - [Mail ID](agarwallasweta1@gmail.com).
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1VpS7ONu1tA3Te9NTwqvrVfGsp8Oka_Ys/view?usp=sharing).
